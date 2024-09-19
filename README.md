@@ -36,7 +36,7 @@ Navigate to the project directory:
     cd car-rental-system
 Run the program:
 ##
-    python car_rental_system.py
+    main.cpp
 Note: Ensure that you have Python installed on your system.
 
 ## Usage
